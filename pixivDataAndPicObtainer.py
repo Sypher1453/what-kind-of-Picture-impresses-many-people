@@ -3,9 +3,6 @@ import csv
 import time
 import random
 
-params_alreadyKnown = [0, 0, 0, 0] # set your picture's statistical params which has been alreaady known On Pixiv
-picsName = '' #put the picture path you selected to check
-
 def saveParameter(filePath, picsName, params):
     datas = []
     i = picsName.split('/')[-1].split(".")[0]

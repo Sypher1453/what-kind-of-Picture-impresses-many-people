@@ -1,6 +1,6 @@
 ## Notice:
 ***
-The code:
+The code in main.py:
 ```python
 params_alreadyKnown = [0, 0, 0, 0] # set your picture's statistical params which has been alreaady known On Pixiv
 ```
