@@ -1,12 +1,4 @@
 ## Notice:
-***
-The code:
-```python
-params_alreadyKnown = [0, 0, 0, 0] # set your picture's statistical params which has been alreaady known On Pixiv
-```
-
-must fix for yourself(e.g. [views on Pixiv, likes, bookmarks, num of tags, ...])
-***
 This code doesn't include parameters learned by regression.
 
 You need pairs of an image and peopele's scores of the image to make this system learn.
