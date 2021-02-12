@@ -26,7 +26,7 @@ The sequence is as below:
 
 |Images||Scores||Regression|
 |:--:|:--:|:--|:--:|:--:|
-|image 1|→|<span style="color: maroon; ">**People's Scores**</span>(image 1)|→|Estimating function of <br> (<span style="color: navy; ">**Machine learning Scores**</span>) -> (<span style="color: maroon; ">**People's Scores**</span>)|
+|image 1|→|<span style="color: maroon; ">**People's Scores**</span>(image 1)|➡|Estimating function of <br> (<span style="color: navy; ">**Machine learning Scores**</span>) -> (<span style="color: maroon; ">**People's Scores**</span>)|
 ||→|<span style="color: navy; ">**Machine learning Scores**</span>(image 1)|⤴|
 |||
 |image 2|→|<span style="color: maroon; ">**People's Scores**</span>(image 2)|⤴|
